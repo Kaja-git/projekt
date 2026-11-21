@@ -1,0 +1,6 @@
+#wirtualne środowisko
+.venv/
+#pliki i katalogi pythona
+_pycache_
+#pliki systemowe
+Thumbs.db
